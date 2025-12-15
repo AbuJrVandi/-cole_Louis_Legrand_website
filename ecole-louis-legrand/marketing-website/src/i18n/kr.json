@@ -1,0 +1,42 @@
+{
+    "common": {
+        "site_name": "École Louis Legrand",
+        "tagline": "국경 없는 글로벌 온라인 OSSD 교육",
+        "apply_now": "지금 신청하기",
+        "learn_more": "더 알아보기",
+        "contact_us": "문의하기",
+        "read_more": "더 읽기"
+    },
+    "navigation": {
+        "home": "홈",
+        "about": "소개",
+        "ossd_curriculum": "OSSD 커리큘럼",
+        "programs": "프로그램",
+        "admissions": "입학",
+        "fees_scholarships": "수업료 및 장학금",
+        "news_blog": "뉴스 및 블로그",
+        "contact": "연락처",
+        "learning_portal": "학습 포털"
+    },
+    "hero": {
+        "home_title": "École Louis Legrand",
+        "home_subtitle": "국경 없는 글로벌 온라인 OSSD 교육",
+        "home_description": "전 세계 학생들에게 세계적 수준의 온타리오 고등학교 졸업장 프로그램을 제공하는 하이브리드 캐나다 온라인 학교입니다."
+    },
+    "footer": {
+        "quick_links": "빠른 링크",
+        "student_support": "학생 지원",
+        "contact_info": "문의하기",
+        "rights_reserved": "모든 권리 보유",
+        "privacy_policy": "개인정보 보호정책",
+        "terms_conditions": "이용약관"
+    },
+    "forms": {
+        "first_name": "이름",
+        "last_name": "성",
+        "email": "이메일 주소",
+        "phone": "전화번호",
+        "submit": "제출",
+        "required": "필수 항목"
+    }
+}

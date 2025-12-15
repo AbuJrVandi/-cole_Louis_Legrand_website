@@ -1,0 +1,42 @@
+{
+    "common": {
+        "site_name": "École Louis Legrand",
+        "tagline": "Global Online OSSD Education Without Borders",
+        "apply_now": "Apply Now",
+        "learn_more": "Learn More",
+        "contact_us": "Contact Us",
+        "read_more": "Read More"
+    },
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "ossd_curriculum": "OSSD Curriculum",
+        "programs": "Programs",
+        "admissions": "Admissions",
+        "fees_scholarships": "Fees & Scholarships",
+        "news_blog": "News & Blog",
+        "contact": "Contact",
+        "learning_portal": "Learning Portal"
+    },
+    "hero": {
+        "home_title": "École Louis Legrand",
+        "home_subtitle": "Global Online OSSD Education Without Borders",
+        "home_description": "A hybrid Canadian online school offering world-class Ontario Secondary School Diploma programs to students worldwide."
+    },
+    "footer": {
+        "quick_links": "Quick Links",
+        "student_support": "Student Support",
+        "contact_info": "Contact Us",
+        "rights_reserved": "All rights reserved",
+        "privacy_policy": "Privacy Policy",
+        "terms_conditions": "Terms & Conditions"
+    },
+    "forms": {
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "submit": "Submit",
+        "required": "Required field"
+    }
+}

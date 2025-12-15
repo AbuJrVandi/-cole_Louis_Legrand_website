@@ -1,0 +1,42 @@
+{
+    "common": {
+        "site_name": "École Louis Legrand",
+        "tagline": "حدود بلا عالمي OSSD عبر الإنترنت تعليم",
+        "apply_now": "قدم الآن",
+        "learn_more": "اعرف المزيد",
+        "contact_us": "اتصل بنا",
+        "read_more": "اقرأ المزيد"
+    },
+    "navigation": {
+        "home": "الصفحة الرئيسية",
+        "about": "معلومات عنا",
+        "ossd_curriculum": "منهج OSSD",
+        "programs": "البرامج",
+        "admissions": "القبول",
+        "fees_scholarships": "الرسوم والمنح الدراسية",
+        "news_blog": "الأخبار والمدونة",
+        "contact": "اتصل",
+        "learning_portal": "بوابة التعلم"
+    },
+    "hero": {
+        "home_title": "École Louis Legrand",
+        "home_subtitle": "تعليم OSSD عبر الإنترنت عالمي بلا حدود",
+        "home_description": "مدرسة كندية عبر الإنترنت هجينة تقدم برامج دبلوم المدرسة الثانوية في أونتاريو عالمية المستوى للطلاب في جميع أنحاء العالم."
+    },
+    "footer": {
+        "quick_links": "روابط سريعة",
+        "student_support": "دعم الطلاب",
+        "contact_info": "اتصل بنا",
+        "rights_reserved": "كل الحقوق محفوظة",
+        "privacy_policy": "سياسة الخصوصية",
+        "terms_conditions": "الشروط والأحكام"
+    },
+    "forms": {
+        "first_name": "الاسم الأول",
+        "last_name": "اسم العائلة",
+        "email": "عنوان البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "submit": "إرسال",
+        "required": "حقل مطلوب"
+    }
+}
